@@ -1,0 +1,16 @@
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/GOLDPOINT Coding Test
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/GOLDPOINT Coding Test.deps.json
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/GOLDPOINT Coding Test.runtimeconfig.json
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/GOLDPOINT Coding Test.runtimeconfig.dev.json
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/GOLDPOINT Coding Test.dll
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/ref/GOLDPOINT Coding Test.dll
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/bin/Debug/net5.0/GOLDPOINT Coding Test.pdb
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.csproj.AssemblyReference.cache
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.AssemblyInfoInputs.cache
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.AssemblyInfo.cs
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.csproj.CoreCompileInputs.cache
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.dll
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/ref/GOLDPOINT Coding Test.dll
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.pdb
+/home/tofen/Documents/Dot Net/GOLDPOINT Coding Test/obj/Debug/net5.0/GOLDPOINT Coding Test.genruntimeconfig.cache
